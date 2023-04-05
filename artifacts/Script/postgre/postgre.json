@@ -1,0 +1,27 @@
+{
+	"id": "cb41e308-35e0-4a74-a602-065bc0b76260",
+	"createdAt": "2023-04-05T11:17:24.409Z",
+	"createdBy": "dsirbu",
+	"globalScripts": [],
+	"externalModules": [
+		{
+			"id": "internal_pg",
+			"name": "pg",
+			"contextname": "pg",
+			"path": "pg"
+		}
+	],
+	"entitySets": [],
+	"apis": [],
+	"name": "postgre",
+	"ver": "23.4.5.1118",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d4c3022c-7f3d-4edb-8a99-542d5d85dc47",
+	"package": "f626ec49-a699-4ce8-9554-0975a4357673"
+}

@@ -1,0 +1,54 @@
+{
+	"id": "f626ec49-a699-4ce8-9554-0975a4357673",
+	"createdAt": "2023-04-05T07:53:36.712Z",
+	"createdBy": "dsirbu",
+	"git": {
+		"remote": "https://github.com/nepportugal/Open-Edition.git"
+	},
+	"name": "ExternalDB",
+	"description": "Link external DB",
+	"ver": "23.4.5.1131",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "cb41e308-35e0-4a74-a602-065bc0b76260",
+			"name": "postgre",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "d4c3022c-7f3d-4edb-8a99-542d5d85dc47",
+			"name": "DB_connector",
+			"description": null
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
